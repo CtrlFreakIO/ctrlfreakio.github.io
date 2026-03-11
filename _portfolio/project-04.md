@@ -11,7 +11,7 @@ Developed the complete PLC program and HMI visualization for a wastewater treatm
 
 Drive commissioning and parameterization was performed over PROFINET. External devices communicate via analog signals, Modbus TCP, and Modbus RTU depending on device type. The system includes SMS alarm notification to on-call maintenance personnel.
 
-The project concluded with preparation of full as-built documentation — including an operator manual — and on-site training for operations staff.
+The project concluded with preparation of full as-built documentation - including an operator manual - and on-site training for operations staff.
 
 **Key aspects:**
 - Full process automation from limited specification
