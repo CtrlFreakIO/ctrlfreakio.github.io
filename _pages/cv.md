@@ -11,22 +11,22 @@ redirect_from:
 
 ## Experience
 
-**Assistant** — Poznań University of Technology, Institute of Robotics and Machine Intelligence
-*November 2023 – present*
+**Assistant** - Poznań University of Technology, Institute of Robotics and Machine Intelligence
+*November 2023 - present*
 
 Teaching laboratory classes in industrial automation for full-time and part-time students of Automatic Control and Robotics.
 
 ---
 
-**PLC Programmer / Automation Engineer** — Elokon Sp. z o.o.
-*February 2021 – January 2026*
+**PLC Programmer / Automation Engineer** - Elokon Sp. z o.o.
+*February 2021 - January 2026*
 
 PLC and safety controller programming for production lines and individual machines. HMI visualization and SCADA/MES system development. Machine and production line safety concept design. Machine safety audits. Drive commissioning. On-site supervision and subcontractor coordination.
 
 ---
 
-**Automation Technician** — Volkswagen Poznań
-*July 2016 – February 2021*
+**Automation Technician** - Volkswagen Poznań
+*July 2016 - February 2021*
 
 Maintenance of production machinery on a vehicle assembly floor. Scheduled inspections, fault diagnosis and repair to ensure production continuity. PLC program modifications and SCADA/HMI alarm management.
 
@@ -34,10 +34,10 @@ Maintenance of production machinery on a vehicle assembly floor. Scheduled inspe
 
 ## Education
 
-**M.Sc. in Automatic Control and Robotics** — Poznań University of Technology, November 2016
+**M.Sc. in Automatic Control and Robotics** - Poznań University of Technology, November 2016
 Thesis: *Sensorless control of a PMSM fed through a sinusoidal filter*
 
-**B.Eng. in Automatic Control and Robotics** — Poznań University of Technology, March 2015
+**B.Eng. in Automatic Control and Robotics** - Poznań University of Technology, March 2015
 Thesis: *Minutiae recognition system*
 
 ---
@@ -58,9 +58,9 @@ Thesis: *Minutiae recognition system*
 
 ## Languages
 
-- Polish — native
-- English — C1/C2
-- German — B1
+- Polish - native
+- English - C1/C2
+- German - B1
 
 ---
 
