@@ -9,7 +9,7 @@ collection: portfolio
 
 Designed and commissioned the control algorithm for a modernized textile compression machine. The primary driver was improved operator safety: the existing actuator movement sequence presented risk to operators and was redesigned as part of the modernization scope.
 
-A key engineering challenge was achieving the required safety improvement — changing the physical sequence of pneumatic and hydraulic actuator movements — without extending the machine cycle time. This required careful analysis of sequence dependencies and optimization of timing to recover the throughput lost through the safety-driven redesign.
+A key engineering challenge was achieving the required safety improvement - changing the physical sequence of pneumatic and hydraulic actuator movements - without extending the machine cycle time. This required careful analysis of sequence dependencies and optimization of timing to recover the throughput lost through the safety-driven redesign.
 
 **Key aspects:**
 - Safety-motivated actuator sequence redesign
