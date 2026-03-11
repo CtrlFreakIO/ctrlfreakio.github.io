@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "pl_PL"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Michal Skupny, M.Sc. Eng."
+title                    : "ControlFreak - Research & Engenieering"
 title_separator          : "-"
 name                     : &name "Michal Skupny"
 description              : &description "Machinary Safety Analysis, Formal methods"   # Update this with a general description of your site, this is the default if not overridden by a page
