@@ -7,7 +7,7 @@ collection: portfolio
 **Industry:** Textile manufacturing
 **Scope:** Safety documentation
 
-Prepared a standardized set of workstation safety instruction documents for a textile production line. The documentation was developed through structured hazard identification combined with direct interviews with machine operators and maintenance staff — capturing both formal risk assessment findings and practical operational knowledge.
+Prepared a standardized set of workstation safety instruction documents for a textile production line. The documentation was developed through structured hazard identification combined with direct interviews with machine operators and maintenance staff - capturing both formal risk assessment findings and practical operational knowledge.
 
 The resulting instruction templates serve as the basis for operator onboarding and ongoing safety compliance on the line.
 
