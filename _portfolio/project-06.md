@@ -1,11 +1,11 @@
 ---
 title: "Radar-Based Forklift Collision Warning System"
-excerpt: "Detection and warning system for forklift and logistics vehicle conflicts at low-visibility intersections — SICK radar, Weintek HMI."
+excerpt: "Detection and warning system for forklift and logistics vehicle conflicts at low-visibility intersections - SICK radar and safety PLC, Weintek HMI."
 collection: portfolio
 ---
 
 **Industry:** Industrial logistics / intralogistics
-**Platform:** SICK radar sensors, Weintek HMI
+**Platform:** SICK radar sensors and safety FlexiSoft, Weintek HMI
 
 Designed and deployed a radar-based detection system for forklift and logistics vehicle traffic at blind corners and low-visibility intersections within a production facility. The system detects approaching vehicles from multiple directions and triggers visual and audible warnings to prevent collisions.
 
