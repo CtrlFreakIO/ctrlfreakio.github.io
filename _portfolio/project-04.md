@@ -1,6 +1,6 @@
 ---
 title: "Wastewater Treatment Plant Automation"
-excerpt: "Full automation of a wastewater treatment facility — S7-1500, Comfort HMI, Sinamics drives, SMS alarming, Modbus integration."
+excerpt: "Full automation of a wastewater treatment facility - S7-1500, Comfort HMI, Sinamics drives, SMS alarming, Modbus integration."
 collection: portfolio
 ---
 
