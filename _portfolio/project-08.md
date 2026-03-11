@@ -1,6 +1,6 @@
 ---
 title: "Automotive Substation Manual Override Bridges"
-excerpt: "Software bridges enabling manual substation operation by maintenance staff without specialist tools — S7-400 / S7-1500, automotive production line."
+excerpt: "Software bridges enabling manual substation operation by maintenance staff without specialist tools - S7-400 / S7-1500, automotive production line."
 collection: portfolio
 ---
 
