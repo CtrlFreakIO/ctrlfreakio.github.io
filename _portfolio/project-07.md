@@ -1,5 +1,5 @@
 ---
-title: "Workstation Safety Instructions — Textile Production Line"
+title: "Workstation Safety Instructions - Textile Production Line"
 excerpt: "Risk-based workstation safety instruction documentation for a textile production line, developed through hazard identification and operator interviews."
 collection: portfolio
 ---
