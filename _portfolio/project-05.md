@@ -1,6 +1,6 @@
 ---
-title: "Textile Compression Machine — Safety Modernization"
-excerpt: "Actuator sequence redesign for improved operator safety on a textile compression machine, with cycle time optimization — S7-1200 Safety."
+title: "Textile Compression Machine - Safety Modernization"
+excerpt: "Actuator sequence redesign for improved operator safety on a textile compression machine, with cycle time optimization - S7-1200 Safety."
 collection: portfolio
 ---
 
