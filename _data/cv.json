@@ -1,152 +1,180 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Michal Skupny",
+    "label": "Automation Engineer & PLC Programmer | Assistant at Poznan University of Technology",
+    "email": "michal.skupny@put.poznan.pl",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://ctrlfreakio.github.io",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Poznan",
+      "countryCode": "PL"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "ctrlfreak",
+        "url": "https://linkedin.com/in/ctrlfreak"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ctrlfreakio",
+        "url": "https://github.com/ctrlfreakio"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0003-5265-7944",
+        "url": "https://orcid.org/0009-0003-5265-7944"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Poznan University of Technology",
+      "position": "Assistant — Institute of Robotics and Machine Intelligence",
+      "website": "https://www.put.poznan.pl",
+      "startDate": "2023-11",
+      "endDate": "",
+      "summary": "Teaching laboratory courses in industrial automation at the Department of Control and Industrial Electronics. Courses delivered in Polish and English for full-time and part-time students of Automatic Control and Robotics.",
+      "highlights": [
+        "Programmable Logic Controllers — S7-1200, TIA Portal, LAD/SCL, motion control, analog I/O, PID controllers",
+        "Selected Applications of Programmable Controllers — HMI design, Ethernet communication, alarm handling, safety functions",
+        "Laboratory of Automation Elements and Devices — relay logic, pneumatic systems, sensor-based sorting lines",
+        "Development of original laboratory materials and exercise scenarios"
+      ]
+    },
+    {
+      "company": "Elokon Sp. z o.o.",
+      "position": "Automation Engineer / PLC Programmer",
+      "startDate": "2021-02",
+      "endDate": "2026-01",
+      "summary": "Engineering and programming of industrial automation systems for production lines and individual machines across textile, automotive, logistics and municipal sectors.",
+      "highlights": [
+        "PLC and safety controller programming (Siemens S7-1200, S7-1500, S7-400 with Safety CPUs)",
+        "HMI visualization design and SCADA system development",
+        "Machine and production line safety concept development and auditing",
+        "Drive commissioning and parameterization (Sinamics over PROFINET)",
+        "Multi-protocol integration: Modbus TCP, Modbus RTU, analog I/O, PROFINET",
+        "IT/OT integration: Python-based PLC data acquisition (snap7), SQL database migration scripts",
+        "As-built documentation preparation: operator manuals, safety instructions, post-implementation reports",
+        "On-site commissioning, subcontractor coordination, permit management"
+      ]
+    },
+    {
+      "company": "Volkswagen Poznan",
+      "position": "Automation Technician",
+      "startDate": "2016-07",
+      "endDate": "2021-02",
+      "summary": "Maintenance of production machinery on a vehicle assembly line. Scheduled inspections, fault diagnosis and repair to ensure production continuity.",
+      "highlights": [
+        "Preventive and corrective maintenance of PLC-controlled production equipment",
+        "PLC program modifications and SCADA/HMI alarm management",
+        "Cross-functional collaboration with production and engineering teams"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "Poznan University of Technology",
+      "area": "Automatic Control and Robotics",
+      "studyType": "Master of Science in Engineering",
+      "startDate": "2014",
+      "endDate": "2016-11",
+      "thesis": "Sensorless control of PMSM fed through a sinusoidal filter"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "Poznan University of Technology",
+      "area": "Automatic Control and Robotics",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2011",
+      "endDate": "2015-03",
+      "thesis": "Minutiae recognition system"
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
+  "skills": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "PLC Programming",
+      "keywords": [
+        "Siemens TIA Portal (S7-1200, S7-1500, S7-400)",
+        "Step 7",
+        "Studio 5000 (Allen-Bradley)",
+        "LAD, FBD, SCL, STL",
+        "Safety CPUs (F-series)"
+      ]
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Industrial Communication",
+      "keywords": [
+        "PROFINET",
+        "Modbus TCP",
+        "Modbus RTU",
+        "S7 PUT/GET",
+        "Analog I/O"
+      ]
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "HMI & SCADA",
+      "keywords": [
+        "Siemens Comfort Panels",
+        "Weintek HMI",
+        "WinCC",
+        "TIA Portal Visualization"
+      ]
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Drive Systems",
+      "keywords": [
+        "Siemens Sinamics",
+        "Drive parameterization and commissioning",
+        "PROFINET drive integration"
+      ]
+    },
+    {
+      "name": "Machine Safety",
+      "keywords": [
+        "EN ISO 13849-1 safety category assessment",
+        "Safety concept development",
+        "Machine safety auditing",
+        "Safety documentation"
+      ]
+    },
+    {
+      "name": "Research & Formal Methods",
+      "keywords": [
+        "Graph-based safety assessment (NetworkX, Python)",
+        "Formal verification (FRET, NuSMV, UPPAAL)",
+        "Knowledge representation"
+      ]
+    },
+    {
+      "name": "IT/OT Integration",
+      "keywords": [
+        "Python (snap7, data acquisition)",
+        "SQL",
+        "PowerShell"
+      ]
     }
   ],
-  "presentations": [
+  "languages": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "language": "Polish",
+      "fluency": "Native"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
+      "language": "English",
+      "fluency": "C1/C2"
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "language": "German",
+      "fluency": "B1"
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
+  "interests": [
+    {"name": "Rock climbing"},
+    {"name": "Kayaking"},
+    {"name": "Drawing"},
+    {"name": "Films, music and books"}
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "publications": [],
+  "presentations": [],
+  "portfolio": []
 }
