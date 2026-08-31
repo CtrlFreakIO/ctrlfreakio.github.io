@@ -11,6 +11,13 @@ redirect_from:
 
 ## Experience
 
+**Automation Engineer** - Freelancer
+*February 2026 - present*
+
+PLC and safety controller programming for production lines and individual machines. HMI visualization and SCADA/MES system development. Machine and production line safety concept design. Machine safety audits. Drive commissioning
+
+---
+
 **Assistant** - Poznań University of Technology, Institute of Robotics and Machine Intelligence
 *November 2023 - present*
 
