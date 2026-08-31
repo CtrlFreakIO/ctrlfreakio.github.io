@@ -4,7 +4,7 @@ excerpt: "Modification and functional validation of BMS control logic for air ha
 collection: portfolio
 ---
 **Type:** Industrial automation project
-**Platform:** Siemens BMS/SCADA
+**Platform:** Siemens BMS/ Aveva SCADA
 
 Modified the Building Management System (BMS) control program for air handling units (AHU) serving a designated building section, in response to updated process/technical guidelines for air preparation. Work was carried out on an existing, operational BMS installation within a validated pharmaceutical manufacturing environment.
 
